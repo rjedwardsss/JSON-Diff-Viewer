@@ -1,0 +1,11 @@
+{
+  "user": {
+    "id": 1,
+    "name": "Ada",
+    "roles": ["admin", "editor"],
+    "active": true
+  },
+  "meta": {
+    "version": 1
+  }
+}

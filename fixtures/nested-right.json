@@ -1,0 +1,12 @@
+{
+  "user": {
+    "id": 1,
+    "name": "Ada Lovelace",
+    "roles": ["admin", "editor", "viewer"],
+    "active": true,
+    "email": "ada@example.com"
+  },
+  "meta": {
+    "version": 2
+  }
+}

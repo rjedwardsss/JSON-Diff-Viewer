@@ -1,0 +1,17 @@
+{
+  "name": "json-diff-viewer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Deep JSON diff CLI (added / removed / changed paths)",
+  "type": "module",
+  "scripts": {
+    "diff": "tsx src/cli.ts",
+    "build": "tsc -p tsconfig.json",
+    "start": "node dist/cli.js"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.2"
+  }
+}
